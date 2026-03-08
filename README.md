@@ -66,3 +66,8 @@ Sum all numbers.
 
 Time: O(n)
 Space: O(1)
+
+# 10.Simple Array Sum
+
+Time Complexity: O(n)
+Space Complexity: O(1)
